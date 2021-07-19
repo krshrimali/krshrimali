@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey 🙏, I'm Kushashwa Ravi Shrimali (they call me: Kush) 👋
+# Hey 🙏 I'm Kushashwa Ravi Shrimali (they call me: Kush) 👋
 
 - Pronounce my name as: Kush + Aashv 😉
 - Pronounce my username as: kay-aar-shrimaali 🤍
