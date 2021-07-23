@@ -38,12 +38,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/Website-krshrimali.github.io-green)](https://krshrimali.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-krshrimali.github.io/blog-yellowgreen)](https://krshrimali.github.io/blog/)
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krshrimali&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://krshrimali.github.io)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krshrimali&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://krshrimali.github.io)
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -54,3 +48,9 @@ Here are some ideas to get you started:
 - [How Vectors Work in C++ (Part-1): How does push_back work?](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/)
 - [PyTorch C++ API Blogs](https://krshrimali.github.io/pytorch/)
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krshrimali&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://krshrimali.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krshrimali&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://krshrimali.github.io)
