@@ -1,22 +1,17 @@
-<!--
-**krshrimali/krshrimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hey 🙏 I'm Kushashwa Ravi Shrimali (they call me: Kush) 👋
 
 - Pronounce my name as: Kush + Aashv 😉
 - Pronounce my username as: kay-aar-shrimaali 🤍
 - Call me: Kush/Kushashwa/krshrimali 💙
+
+Thing I want you to see:
+
+* YouTube (Personal): [Kushashwa Ravi Shrimali](http://youtube.com/c/kushashwaraviShrimali/)
+* YouTube (Technical): [Malloc(42)](https://www.youtube.com/channel/UCV1XiuvBIXrs5qMvsyueqrg)
+* Blog: http://krshrimali.github.io/
+
+Know more about me:
+
 - I live in: India (Jaipur) 🏡
 - I am a: He 🕵️‍♂️
 - I love: singing 👨‍🎤, dancing 👯‍♂️, walking 🚶‍♂️, travelling 🚀, food 🥫, and most importantly: my work 🧑‍💼
@@ -41,8 +36,10 @@ Here are some ideas to get you started:
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Union Find: Problem and Implementation (Naive)](https://krshrimali.github.io/Union-Find-Problem-And-Impl/)
+- [Prefer Scoped Enums Over Unscoped Enums (Notes)](https://krshrimali.github.io/Prefer-Scoped-Enums-Over-Unscoped-Enums/)
+- [Prefer alias declarations to typedefs (Notes)](https://krshrimali.github.io/Alias-Declarations-over-Typedefs-CPP/)
 - [Function Pointers and Function Objects in C++](https://krshrimali.github.io/Function-Pointers-And-Function-Objects-in-CPP/)
-- [Thank You: My Story](https://krshrimali.github.io/My-Story/)
 - [How Vectors Work in C++ (Part-3): Diving deep into mostly used methods of Vectors](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-3/)
 - [How Vectors Work in C++ (Part-2): What happens when you initialize a vector?](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-2/)
 - [How Vectors Work in C++ (Part-1): How does push_back work?](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/)
