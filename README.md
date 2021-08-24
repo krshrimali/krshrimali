@@ -15,16 +15,9 @@ Know more about me:
 - I live in: India (Jaipur) 🏡
 - I am a: He 🕵️‍♂️
 - I love: singing 👨‍🎤, dancing 👯‍♂️, walking 🚶‍♂️, travelling 🚀, food 🥫, and most importantly: my work 🧑‍💼
-- I've been to: 🇺🇸 (US), 🇸🇬 (Singapore), 🇮🇳 (India, where I live)
+- I've been to: 🇺🇸 (US), 🇸🇬 (Singapore), 🇮🇳 (India, where I live ❤️)
 - I can talk in: English, Hindi 🥇
-- I work at: Quansight ❤️
-- I do: Software Development (PyTorch) at Quansight 🤟
-
-### Software Developer (PyTorch), Quansight
-
-- I contribute to: PyTorch as a part of my job at Quansight. 🥁
-- I absolutely: love my job, my team and my company!😍
-- Check out my work here: https://github.com/pytorch/pytorch/pulls/krshrimali 🕵️
+- Check out my work here (apart from my GitHub of course 😉): https://github.com/pytorch/pytorch/pulls/krshrimali 🕵️
 
 [![GitHub](https://img.shields.io/badge/GitHub-krshrimali-red)](https://github.com/krshrimali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kushashwa-blue)](https://www.linkedin.com/in/kushashwa-ravi-shrimali-b6780152/)
