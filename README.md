@@ -9,6 +9,7 @@ Thing I want you to see:
 * YouTube (Personal): [Kushashwa Ravi Shrimali](http://youtube.com/c/kushashwaraviShrimali/)
 * YouTube (Technical): [Malloc(42)](https://www.youtube.com/channel/UCV1XiuvBIXrs5qMvsyueqrg)
 * Blog: http://krshrimali.github.io/
+* Podcast: https://rss.com/podcasts/whatsupkush/
 
 Know more about me:
 
