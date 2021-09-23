@@ -4,7 +4,7 @@
 - Pronounce my username as: kay-aar-shrimaali 🤍
 - Call me: Kush/Kushashwa/krshrimali 💙
 
-Thing I want you to see:
+My footprints on the internet you might be interested in (definitely not instagram :wink:):
 
 * YouTube Channel: [Kushashwa Ravi Shrimali](http://youtube.com/c/kushashwaraviShrimali/)
 * Blog: http://krshrimali.github.io/
