@@ -29,14 +29,17 @@ Know more about me:
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Union Find: Problem and Implementation (Naive)](https://krshrimali.github.io/Union-Find-Problem-And-Impl/)
+- [C++ Blogs](https://krshrimali.github.io/categories/cpp/)
+- [PyTorch C++ API Blogs](https://krshrimali.github.io/categories/pytorch/)
+
+<!-- - [Union Find: Problem and Implementation (Naive)](https://krshrimali.github.io/Union-Find-Problem-And-Impl/)
 - [Prefer Scoped Enums Over Unscoped Enums (Notes)](https://krshrimali.github.io/Prefer-Scoped-Enums-Over-Unscoped-Enums/)
 - [Prefer alias declarations to typedefs (Notes)](https://krshrimali.github.io/Alias-Declarations-over-Typedefs-CPP/)
 - [Function Pointers and Function Objects in C++](https://krshrimali.github.io/Function-Pointers-And-Function-Objects-in-CPP/)
 - [How Vectors Work in C++ (Part-3): Diving deep into mostly used methods of Vectors](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-3/)
 - [How Vectors Work in C++ (Part-2): What happens when you initialize a vector?](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-2/)
 - [How Vectors Work in C++ (Part-1): How does push_back work?](https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/)
-- [PyTorch C++ API Blogs](https://krshrimali.github.io/pytorch/)
+- [PyTorch C++ API Blogs](https://krshrimali.github.io/pytorch/) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
