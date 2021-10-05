@@ -24,7 +24,7 @@ Know more about me:
 [![YouTube](https://img.shields.io/badge/YouTube-kush-red)](https://youtube.com/c/kushashwaraviShrimali)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-kushashwa-orange)](https://stackoverflow.com/users/2218021/kushashwa-ravi-shrimali)
 [![Website](https://img.shields.io/badge/Website-krshrimali.github.io-green)](https://krshrimali.github.io/)
-[![Blog](https://img.shields.io/badge/Blog-krshrimali.github.io/blog-yellowgreen)](https://krshrimali.github.io/blog/)
+[![Blog](https://img.shields.io/badge/Blog-krshrimali.github.io/blog-yellowgreen)](https://krshrimali.github.io/)
 
 ## Latest Blog Posts
 
