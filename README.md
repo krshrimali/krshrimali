@@ -1,4 +1,4 @@
-# Hey 🙏 I'm Kushashwa Ravi Shrimali (they call me: Kush) 👋
+# Hey 🙏 I'm Kushashwa Ravi Shrimali (Kush) 👋
 
 - Pronounce my name as: Kush + Aashv 😉
 - Pronounce my username as: kay-aar-shrimaali 🤍
