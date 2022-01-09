@@ -30,6 +30,7 @@ Know more about me:
 
 <!-- BLOG-POST-LIST:START -->
 - [C++ Blogs](https://krshrimali.github.io/categories/cpp/)
+- [Rust Blogs](https://krshrimali.github.io/categories/rust/)
 - [PyTorch C++ API Blogs](https://krshrimali.github.io/categories/pytorch/)
 
 <!-- - [Union Find: Problem and Implementation (Naive)](https://krshrimali.github.io/Union-Find-Problem-And-Impl/)
