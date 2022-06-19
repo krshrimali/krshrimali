@@ -6,7 +6,7 @@
 
 My footprints on the internet you might be interested in (definitely not instagram :wink:):
 
-* Twitch: [BuffetCodes](https://twitch.tv/buffetcodes) (live every day at 9 PM IST / 8:30 AM PT)
+* Twitch: [BuffetCodes](https://twitch.tv/buffetcodes) (inactive for a few months)
 * YouTube Channel: [Kushashwa Ravi Shrimali](http://youtube.com/c/kushashwaraviShrimali/)
 * Blog: http://krshrimali.github.io/
 * Podcast: https://rss.com/podcasts/whatsupkush/
