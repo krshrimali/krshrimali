@@ -1,6 +1,6 @@
 # Hey 🙏 I'm Kushashwa Ravi Shrimali (Kush) 👋
 
-I develop DL libraries and applications as my day job, and contribute to compilers, window managers, and code editors during the night (/early morning).
+I'm a Research Engineer. Working towards developing libraries, and creating pipelines to deploy AI models to make them more accessible.
 
 - Pronounce my name as: Kush + Aashv 😉
 - Pronounce my username as: kay-aar-shrimaali 🤍
