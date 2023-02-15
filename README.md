@@ -1,6 +1,6 @@
 # Hey 🙏 I'm Kushashwa Ravi Shrimali (Kush) 👋
 
-I'm a Research Engineer. Working towards developing libraries, and creating pipelines to deploy AI models to make them more accessible.
+I'm currently working as a Backend Engineer at [Abnormal Security](https://abnormalsecurity.com/).
 
 - Pronounce my name as: Kush + Aashv 😉
 - Pronounce my username as: kay-aar-shrimaali 🤍
